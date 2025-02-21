@@ -22,7 +22,9 @@ launcher for components in the connextauto ecosystem, and it is:
 
       git clone <a_git_url_to_this_repository>
 
-- **(if not done already)** Follow the [Getting Started](https://github.com/rticommunity/connextauto-bus?tab=readme-ov-file#getting-started) instructions in the [`$DATABUSHOME/README.md`](https://github.com/rticommunity/connextauto-bus?tab=readme-ov-file#getting-started) to generate the build system and to build the datatypes for the *RTI Connext SDK*(s) used by this component
+- **(if not done already)** Follow the [Getting Started](https://github.com/rticommunity/connextauto-bus?tab=readme-ov-file#getting-started) instructions in the [`$DATABUSHOME/README.md`](https://github.com/rticommunity/connextauto-bus?tab=readme-ov-file#getting-started) to generate the build system and to build the datatypes for the *RTI Connext SDK*(s) that will be used by this repo
+
+- **(if not done already)** Follow the [Usage](https://github.com/rticommunity/connextauto-bus?tab=readme-ov-file#usage) guidance in the [`$DATABUSHOME/README.md`](https://github.com/rticommunity/connextauto-bus?tab=readme-ov-file#usage) for populating the `CMakeLists.txt` and how to `#include` header files for datatypes defined in the `$DATABUSHOME` repo for your applications.
 
 - Generated build system for **this** repo, following the same instructions as above, in the [Getting Started](https://github.com/rticommunity/connextauto-bus?tab=readme-ov-file#getting-started) section in the [`$DATABUSHOME/README.md`](https://github.com/rticommunity/connextauto-bus?tab=readme-ov-file#getting-started). 
 
